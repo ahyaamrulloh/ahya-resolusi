@@ -3,3 +3,4 @@
   * Membuat struktur data blockchain
 - Belajar Phyton
 - Belajar Solidity
+  * Membuat Smart Contract
