@@ -1,0 +1,3 @@
+- Belajar javascript
+- Belajar Phyton
+- Belajar Solidity
