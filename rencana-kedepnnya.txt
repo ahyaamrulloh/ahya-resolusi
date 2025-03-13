@@ -1,0 +1,5 @@
+- Belajar javascript
+  * Membuat website
+  * Membuat struktur data blockchain
+- Belajar Phyton
+- Belajar Solidity
