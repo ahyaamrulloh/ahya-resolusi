@@ -2,10 +2,16 @@ Rencana Belajar Ahya
 - Javascript
 - Python
 - Solidity
+- Goolang
+- Ruby
 Fremwork
 - React
 - Truffle
 - Ganache
 - Truffle
+- Node JS
+- Web3 JS
+- Metamask
+
 
 
