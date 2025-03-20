@@ -1,6 +1,5 @@
 Rencana Belajar Ahya
 - Javascript
-- Python
 - Solidity
 - Goolang
 - Ruby
@@ -12,6 +11,5 @@ Fremwork
 - Node JS
 - Web3 JS
 - Metamask
-
 
 
