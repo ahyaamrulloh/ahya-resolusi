@@ -6,4 +6,6 @@ Fremwork
 - React
 - Truffle
 - Ganache
+- Truffle
+
 
