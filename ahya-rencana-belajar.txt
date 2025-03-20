@@ -1,0 +1,4 @@
+Rencana Belajar Ahya
+- Javascript
+- Python
+- Solidity
