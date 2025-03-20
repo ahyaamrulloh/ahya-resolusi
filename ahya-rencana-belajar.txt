@@ -2,3 +2,8 @@ Rencana Belajar Ahya
 - Javascript
 - Python
 - Solidity
+Fremwork
+- React
+- Truffle
+- Ganache
+
